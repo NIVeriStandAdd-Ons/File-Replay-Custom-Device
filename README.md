@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## File Replay Custom Device ##
 
 **File Replay Custom Device** allows for playback of TDMS signals in the VeriStand engine, supporting different playback rates with interpolation for super and sub sampling.
